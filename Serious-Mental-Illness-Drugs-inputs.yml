@@ -1,0 +1,48 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/serious-mental-illness-smi-drugs-400mg---primary.py
+inputModule3:
+  class: File
+  path: python/serious-mental-illness-smi-drugs-200mg---primary.py
+inputModule4:
+  class: File
+  path: python/serious-mental-illness-smi-drugs-509mg---primary.py
+inputModule5:
+  class: File
+  path: python/serious-mental-illness-smi-drugs-lithium---primary.py
+inputModule6:
+  class: File
+  path: python/serious-mental-illness-smi-drugs-520mg---primary.py
+inputModule7:
+  class: File
+  path: python/serious-mental-illness-smi-drugs-1018g---primary.py
+inputModule8:
+  class: File
+  path: python/serious-mental-illness-smi-drugs-carbonate---primary.py
+inputModule9:
+  class: File
+  path: python/serious-mental-illness-smi-drugs-camcolit---primary.py
+inputModule10:
+  class: File
+  path: python/serious-mental-illness-smi-drugs-564mg---primary.py
+inputModule11:
+  class: File
+  path: python/serious-mental-illness-smi-drugs-450mg---primary.py
+inputModule12:
+  class: File
+  path: python/serious-mental-illness-smi-drugs-300mg---primary.py
+inputModule13:
+  class: File
+  path: python/serious-mental-illness-smi-drugs-priadel---primary.py
+inputModule14:
+  class: File
+  path: python/serious-mental-illness-smi-drugs-liliquid---primary.py
+inputModule15:
+  class: File
+  path: python/output-cases.py
